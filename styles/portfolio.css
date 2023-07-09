@@ -1,0 +1,35 @@
+.heading{
+    color: #181818;
+font-size: 45px;
+font-weight: 800;
+}
+.clr{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-right: 50px;
+    text-decoration: none;
+}
+nav a{
+    text-decoration: none;
+    
+}
+.btn{
+    font-size: 20px;
+    color: white;
+font-weight: 700;
+border-radius: 5px;
+background: #FD6E0A;
+padding: 15px 35px;
+border: 0;
+}
